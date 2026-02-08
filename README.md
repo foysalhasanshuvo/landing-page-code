@@ -15,3 +15,12 @@
 }
 }
 ```
+
+```shell Script
+ @media (max-width: 767px){
+            .wcf-embed-checkout-form .woocommerce-checkout .wcf-product-option-wrap.wcf-yp-skin-classic .wcf-qty .wcf-qty-selection-wrap{
+                margin-left: -22px;
+                padding-right: 10px;
+            }
+    }
+```
