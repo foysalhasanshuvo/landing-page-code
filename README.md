@@ -11,6 +11,9 @@
                 margin-left: -22px;
                 padding-right: 10px;
             }
+span.woocommerce-Price-amount.amount{
+		margin-left: 15px;
+        }
 .wcf-embed-checkout-form .woocommerce form .wcf-shipping-methods-wrapper{
 	margin-top: -80px;
 }
