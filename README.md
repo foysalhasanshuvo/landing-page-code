@@ -1,8 +1,17 @@
+Custom Size in Inline Design
 ```shell script
 .wcf-embed-checkout-form .woocommerce-input-wrapper {
     display: flex !important;
     align-items: center;
     flex-wrap: wrap;
+}
+.wcf-embed-checkout-form .woocommerce .wcf-input-radio-field-wrapper input[type="radio"].input-radio
+ {
+     margin-right: 4px;
+ }
+.wcf-embed-checkout-form .woocommerce form .form-row .required {
+    margin-left: -4px;
+    margin-right: 15px;
 }
 ```
 ```shell script
