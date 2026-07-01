@@ -18,10 +18,13 @@ Custom Size in Inline Design
 @media (max-width: 767px){
 .wcf-embed-checkout-form .woocommerce-checkout .wcf-product-option-wrap.wcf-yp-skin-classic .wcf-qty .wcf-qty-selection-wrap{
                 margin-left: -22px;
-                padding-right: 10px;
+                padding-right: 15px;
             }
+.wcf-qty-selection-wrap{
+    margin-left: -15px;
+}
 span.woocommerce-Price-amount.amount{
-		margin-left: 15px;
+		margin-left: 10px;
         }
 .wcf-embed-checkout-form .woocommerce form .wcf-shipping-methods-wrapper{
 	margin-top: -80px;
